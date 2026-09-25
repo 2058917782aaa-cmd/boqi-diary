@@ -1,4 +1,4 @@
-# 月光手帖 · Diary Book
+# 波奇日记 · Diary Book
 
 使用 React、Vite、TypeScript、Tailwind CSS 和 lucide-react 构建的个人日记本。日记保存在当前浏览器的 localStorage 中，无需后端。
 
